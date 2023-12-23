@@ -5,7 +5,8 @@
 	"main": "src/main.ts",
 	"scripts": {
 		"test": "nodemon src/main.ts",
-		"dev": "npm test"
+		"dev": "npm test",
+		"test-servers": "nodemon test/test.ts"
 	},
 	"author": "SturmEnte",
 	"license": "SEE LICENSE IN LICENSE",
